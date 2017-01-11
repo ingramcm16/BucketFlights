@@ -34,9 +34,9 @@ public class AirlineListings {
 	 * @param args
 	 */
 
-	private static final String APPLICATION_NAME = "MyFlightApplication";
+	private static final String APPLICATION_NAME = "";
 
-	private static final String API_KEY = "AIzaSyDnBCdsmTnrL5XFrO2TjJyvFioswjakNYU";
+	private static final String API_KEY = "";
 
 	/** Global instance of the HTTP transport. */
 	private static HttpTransport httpTransport;
